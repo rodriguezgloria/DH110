@@ -9,3 +9,11 @@ https://www.npr.org
 ![NPR](nprScreenshot.png)
 
 <img src="./nprScreenshot.png" width ="200px">
+
+---
+
+This is a table
+
+| Heuristics | Note |
+| ---------- | ---| 
+| Visibility of the system | 
