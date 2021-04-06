@@ -16,4 +16,4 @@ This is a table
 
 | Heuristics | Note |
 | ---------- | ---| 
-| Visibility of the system | 
+| Visibility of the system | It is good to have the user's radio. | 
