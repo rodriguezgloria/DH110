@@ -8,4 +8,4 @@ https://www.npr.org
 
 ![NPR](nprScreenshot.png)
 
-<img src="./nprScreenshot.png"
+<img src="./nprScreenshot.png">
