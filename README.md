@@ -6,9 +6,9 @@ https://www.npr.org
 
 ##### Note: It's a test.
 
-![NPR](nprScreenshot.png)
+![NPR](./images/nprScreenshot.png)
 
-<img src="./nprScreenshot.png" width ="200px">
+<img src="./images/nprScreenshot.png" width ="200px">
 
 ---
 
