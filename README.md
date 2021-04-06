@@ -5,3 +5,5 @@ This is the contents
 https://www.npr.org
 
 ##### Note: It's a test.
+
+![NPR](nprScreenshot.png)
