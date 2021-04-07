@@ -14,7 +14,7 @@
 
 ---
 ### Airbnb (https://www.airbnb.com)
->**Description:**
+>**Description:** Airbnb is a booking website for vacation hotels/home rentals for travelors. It also offers the option to book a variety of local experienses hosted by members of the community to explore the area further. These accomodations are available across various countries in the world. 
 <img src="./images/airbnbScreenshot.png" width ="1000px">
 > **Overall Evaluation:**
 
