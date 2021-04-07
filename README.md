@@ -24,8 +24,8 @@
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
 ---
-### Trip Advisor (https://www.tripadvisor.com)
->**Description:** Tripadvisor 
+### Tripadvisor (https://www.tripadvisor.com)
+>**Description:** Tripadvisor is an online travel company that functions as a website to assist travelers with hotel reservations and vacation rentals. In addition their website also provides other services such as book different types of transportation (i.e. rental cars and flights), and suggustions for popular attractions in the local area where travels are staying. 
 <img src="./images/tripadvisorScreenshot.png" width ="1000px">
 > **Overall Evaluation:**
 
