@@ -1,8 +1,9 @@
-# Making Travel Experiences Accessible
+# Planning Accessible Travel Experiences
 ## by Gloria Rodriguez for Digital Humanities 110
-> **Project Description:** Gang shit. 
+> **Project Description:** 
 
 #### Severity Scale 
+---
 | Number | Meaning |
 | --- | --- | 
 | 0 | I don't agree that this is a usability problem at all.|
@@ -12,6 +13,7 @@
 > **Source:** https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
 ### Airbnb (https://www.airbnb.com)
+---
 >**Description:**
 
 > screenshot of homepage.
@@ -25,8 +27,8 @@ url
 | ---------- | ---| --- | --- |
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
----
 ### Trip Advisor (https://www.tripadvisor.com)
+---
 >**Description:**
 
 > screenshot of homepage
