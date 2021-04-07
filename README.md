@@ -24,7 +24,7 @@
 | Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | It is good to have the user's radio. | yuh | 5 |
 | Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
 | User Control & Freedom: | Gang | Gang | Gang |
-| Consistency and standards: | Gang | Gang | Gang |
+| Consistency and Standards: | Gang | Gang | Gang |
 | Error prevention: | Gang | Gang | Gang |
 | Recognition rather than Recall: | Gang | Gang | Gang |
 | Flexibility and Efficiency of use: | Gang | Gang | Gang |
@@ -45,11 +45,11 @@
 | ---------- | ---| --- | --- |
 | Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on.  | It is good to have the user's radio. | yuh | 5 |
 | Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
-| Gang | Gang | Gang | Gang |
+| User Control & Freedom: | Gang | Gang | Gang |
+| Consistency and Standards: | Gang | Gang | Gang |
+| Error prevention: | Gang | Gang | Gang |
+| Recognition rather than Recall:  | Gang | Gang | Gang |
+| Flexibility and Efficiency of use: | Gang | Gang | Gang |
+| Aesthetic and Minimalist Design: | Gang | Gang | Gang |
+| Helps users recognize, diagnose, and recover from errors: | Gang | Gang | Gang |
+| Help and Documentation:| Gang | Gang | Gang |
