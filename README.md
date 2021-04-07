@@ -45,8 +45,8 @@
 | ---------- | ---| --- | --- |
 | Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on.  | It is good to have the user's radio. | yuh | 5 |
 | Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
-| User Control & Freedom: | Gang | Gang | Gang |
-| Consistency and Standards: | Gang | Gang | Gang |
+| User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features| Gang | Gang | Gang |
+| Consistency and Standards: Design layout and structure is maintained throughout the interface| Gang | Gang | Gang |
 | Error prevention: | Gang | Gang | Gang |
 | Recognition rather than Recall:  | Gang | Gang | Gang |
 | Flexibility and Efficiency of use: | Gang | Gang | Gang |
