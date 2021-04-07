@@ -25,7 +25,7 @@
 
 ---
 ### Tripadvisor (https://www.tripadvisor.com)
->**Description:** Tripadvisor is an online travel company that functions as a website to assist travelers with hotel reservations and vacation rentals. In addition their website also provides other services such as book different types of transportation (i.e. rental cars and flights), and suggustions for popular attractions in the local area where travels are staying. 
+>**Description:** Tripadvisor is an online travel company that functions as a website to assist travelers with hotel reservations and vacation rentals across the world. In addition their website also provides other services such as book different types of transportation (i.e. rental cars and flights), and suggustions for popular attractions and resturants in the local area where travels are staying. They also offer local experiences as well that are hosted by various companies. 
 <img src="./images/tripadvisorScreenshot.png" width ="1000px">
 > **Overall Evaluation:**
 
