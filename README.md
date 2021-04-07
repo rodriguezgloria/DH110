@@ -19,9 +19,9 @@
 > **Overall Evaluation:** 
 
 #### Heuristic Evaluation 
-| Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
+| Heuristics & Description | Heuristic Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
-| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | It is good to have the user's radio. | yuh | 5 |
+| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | **Supports:** Good feedback with three iterating dots across the screen and a moving circle when interface is loading. **Violations** After clicking the search bar-the interface is completely blank.| In this case the website is completely blank, an error or any type of feedback should still be visible. | 2 |
 | Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
 | User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | Gang | Gang | Gang |
 | Consistency and Standards: Design layout and structure is maintained throughout the interface. | Gang | Gang | Gang |
