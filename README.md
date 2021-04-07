@@ -14,7 +14,7 @@
 
 ---
 ### Airbnb (https://www.airbnb.com)
->**Description:** Airbnb is a booking website for vacation hotels/home rentals for travelors. It also offers the option to book a variety of local experienses hosted by members of the community to explore the area further. These accomodations are available across various countries in the world. 
+>**Description:** Airbnb is a booking website for vacation hotels/home rentals for travelers who are visiting local or internation destinations. It also offers the option to book a variety of local experienses hosted by members of the community rather than commercialized companies so visitors can explore the area further and support the community directly. These accomodations are available across a multitude of countries in the world. 
 <img src="./images/airbnbScreenshot.png" width ="1000px">
 > **Overall Evaluation:**
 
@@ -25,7 +25,7 @@
 
 ---
 ### Trip Advisor (https://www.tripadvisor.com)
->**Description:**
+>**Description:** Tripadvisor 
 <img src="./images/tripadvisorScreenshot.png" width ="1000px">
 > **Overall Evaluation:**
 
