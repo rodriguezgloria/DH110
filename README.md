@@ -2,7 +2,7 @@
 ## by Gloria Rodriguez for Digital Humanities 110
 > **Project Description:** Gang shit. 
 
-### Severity Scale 
+#### Severity Scale 
 | Number | Meaning |
 | --- | --- | 
 | 0 | I don't agree that this is a usability problem at all.|
