@@ -21,7 +21,7 @@
 #### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
-| Visibility of the system | It is good to have the user's radio. | yuh | 5 |
+| Visibility of System Status & The interface design should provide adaquate feedback to allow users to know what is going on. | It is good to have the user's radio. | yuh | 5 |
 | Gang | Gang | Gang | Gang |
 | Gang | Gang | Gang | Gang |
 | Gang | Gang | Gang | Gang |
@@ -43,7 +43,7 @@
 #### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
-| Visibility of the system | It is good to have the user's radio. | yuh | 5 |
+| Visibility of System Status & The interface design should provide adaquate feedback to allow users to know what is going on.  | It is good to have the user's radio. | yuh | 5 |
 | Gang | Gang | Gang | Gang |
 | Gang | Gang | Gang | Gang |
 | Gang | Gang | Gang | Gang |
