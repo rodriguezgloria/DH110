@@ -2,14 +2,8 @@
 ## by Gloria Rodriguez for Digital Humanities 110
 > **Project Description:**
 
-https://www.npr.org
-
-##### Note: It's a test.
-
-![NPR](./images/nprScreenshot.png)
-
-<img src="./images/nprScreenshot.png" width ="200px">
-
+### Web App I
+### Web App II
 ---
 
 This is a table
