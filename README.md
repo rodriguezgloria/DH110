@@ -1,6 +1,6 @@
 # Unknown Title Project
-## by Gloria Rodriguez, for Digital Humanities 110
-This is the contents
+## by Gloria Rodriguez for Digital Humanities 110
+> **Project Description:**
 
 https://www.npr.org
 
