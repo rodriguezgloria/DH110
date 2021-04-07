@@ -21,8 +21,8 @@
 #### Heuristic Evaluation 
 | Heuristics & Description | Heuristic Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
-| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | **Supports:** Good feedback with three iterating dots across the screen and a moving circle when interface is loading. **Violations** After clicking the search bar-the interface is completely blank.| In this case the website is completely blank, an error or any type of feedback should still be visible. | 2 |
-| Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
+| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | **Supports:** Good feedback with three iterating dots across the screen and a moving circle when interface is loading. **Violations:** After clicking the search bar-the interface is completely blank.| In this case the website is completely blank, an error or any type of feedback should still be visible. | 2 |
+| Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | **Supports:** The icons indicate the types of information given in the experience. **Violations:** There are not enough icons that indicate the level of difficulty or accessibility. | Include two more icons that indicate level of difficulty and if it is accessible to people of all ages. | 3 |
 | User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | Gang | Gang | Gang |
 | Consistency and Standards: Design layout and structure is maintained throughout the interface. | Gang | Gang | Gang |
 | Error prevention: Alerts and design that prevent problems from occuring. | Gang | Gang | Gang |
