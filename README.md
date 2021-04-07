@@ -1,6 +1,6 @@
-# How to 
+# Making Travel Experiences Accessible
 ## by Gloria Rodriguez for Digital Humanities 110
-> **Project Description:**
+> **Project Description:** Gang shit. 
 
 ### Severity Scale 
 | Number | Meaning |
@@ -26,7 +26,7 @@ url
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
 ---
-### Tripadvisor (https://www.tripadvisor.com)
+### Trip Advisor (https://www.tripadvisor.com)
 >**Description:**
 
 > screenshot of homepage
