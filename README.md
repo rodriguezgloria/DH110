@@ -16,7 +16,7 @@
 >**Description:** Airbnb is a booking website for vacation hotels/home rentals for travelers who are visiting local or internation destinations. It also offers the option to book a variety of local experienses hosted by members of the community rather than commercialized companies so visitors can explore the area further and support the community directly. These accomodations are available across a multitude of countries in the world. 
 <img src="./images/airbnbScreenshot.png" width ="1000px">
 
-> **Overall Evaluation:** 
+> **Overall Evaluation:** Despite having an awesome aesthetic and minimalist user-interface design because of its consistent layout and enforced standards, Airbnb fails to provide important information in regards to accessibility when searching for travel experiences. There needs to be improvement regarding the amount of visible icons, more filters to be available, and better descriptors that are easily seen to enable better efficiency. 
 
 #### Heuristic Evaluation 
 | Heuristics & Description | Heuristic Evaluation | Reccomdendation | Severity Rank |
