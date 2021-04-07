@@ -23,14 +23,14 @@
 | ---------- | ---| --- | --- |
 | Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on. | It is good to have the user's radio. | yuh | 5 |
 | Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
-| User Control & Freedom: | Gang | Gang | Gang |
-| Consistency and Standards: | Gang | Gang | Gang |
-| Error prevention: | Gang | Gang | Gang |
-| Recognition rather than Recall: | Gang | Gang | Gang |
-| Flexibility and Efficiency of use: | Gang | Gang | Gang |
-| Aesthetic and Minimalist Design: | Gang | Gang | Gang |
-| Helps users recognize, diagnose, and recover from errors: | Gang | Gang | Gang |
-| Help and Documentation: | Gang | Gang | Gang |
+| User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | Gang | Gang | Gang |
+| Consistency and Standards: Design layout and structure is maintained throughout the interface. | Gang | Gang | Gang |
+| Error prevention: Alerts and design that prevent problems from occuring. | Gang | Gang | Gang |
+| Recognition rather than Recall: Avoid depending on user's memory and instead make the design intuitive. | Gang | Gang | Gang |
+| Flexibility and Efficiency of use: Userflow must optimize interaction for the user and be easy too. | Gang | Gang | Gang |
+| Aesthetic and Minimalist Design: Interfaces must be consise, include pertinent features and exclude irrelevent ones.| Gang | Gang | Gang |
+| Helps users recognize, diagnose, and recover from errors: Helpful feedback must be provided to assist with troubleshooting errors.| Gang | Gang | Gang |
+| Help and Documentation: Must have additional documentation to further explain errors and complete tasks. | Gang | Gang | Gang |
 
 ---
 ### Tripadvisor (https://www.tripadvisor.com)
@@ -48,7 +48,7 @@
 | User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | Gang | Gang | Gang |
 | Consistency and Standards: Design layout and structure is maintained throughout the interface. | Gang | Gang | Gang |
 | Error prevention: Alerts and design that prevent problems from occuring. | Gang | Gang | Gang |
-| Recognition rather than Recall: Avoid depending on user's memory and instead make the design clear. | Gang | Gang | Gang |
+| Recognition rather than Recall: Avoid depending on user's memory and instead make the design intuitive. | Gang | Gang | Gang |
 | Flexibility and Efficiency of use: Userflow must optimize interaction for the user and be easy too. | Gang | Gang | Gang |
 | Aesthetic and Minimalist Design: Interfaces must be consise, include pertinent features and exclude irrelevent ones.| Gang | Gang | Gang |
 | Helps users recognize, diagnose, and recover from errors: Helpful feedback must be provided to assist with troubleshooting errors.| Gang | Gang | Gang |
