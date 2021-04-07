@@ -15,11 +15,7 @@
 ---
 ### Airbnb (https://www.airbnb.com)
 >**Description:**
-
-> screenshot of homepage.
-
-url
-
+<img src="./images/airbnbScreenshot.png" width ="500px">
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
@@ -30,9 +26,7 @@ url
 ---
 ### Trip Advisor (https://www.tripadvisor.com)
 >**Description:**
-
-> screenshot of homepage
-
+<img src="./images/tripadvisorScreenshot.png" width ="500px">
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
