@@ -43,13 +43,13 @@
 #### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
-| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on.  | It is good to have the user's radio. | yuh | 5 |
-| Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | Gang | Gang | Gang |
-| User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | Gang | Gang | Gang |
-| Consistency and Standards: Design layout and structure is maintained throughout the interface. | Gang | Gang | Gang |
-| Error prevention: Alerts and design that prevent problems from occuring. | Gang | Gang | Gang |
-| Recognition rather than Recall: Avoid depending on user's memory and instead make the design intuitive. | Gang | Gang | Gang |
-| Flexibility and Efficiency of use: Userflow must optimize interaction for the user and be easy too. | Gang | Gang | Gang |
-| Aesthetic and Minimalist Design: Interfaces must be consise, include pertinent features and exclude irrelevent ones.| Gang | Gang | Gang |
-| Helps users recognize, diagnose, and recover from errors: Helpful feedback must be provided to assist with troubleshooting errors.| Gang | Gang | Gang |
-| Help and Documentation: Must have additional documentation to further explain errors and complete tasks. | Gang | Gang | Gang |
+| Visibility of System Status: The interface design should provide adaquate feedback to allow users to know what is going on.  |  **Supports:** When editing dates for experiences, there is an instant response message about updating your search and it is accompanied by an iterating circle.| No recommendation because the feedback is consise and updates the user accordingly. | 1 |
+| Match between System & Real World: The design needs to be analogous to the user's conceptual models of the world. | **Supports:** The user is able to search for experiences by geographical map or by listing. **Violation:** It comes at the expense of one another.| There needs to be a hybrid model of the two that aligns with each other. | 3 |
+| User Control & Freedom: User has flexibility to opt-in, opt-out, and customize features. | **Supports:** Further customization because the user has control of what to opt-in and out of because the customizable features allow the users themselves to refine the search | No recomendation other than suggusting more filters that are more inclusive about accessibility | 2 |
+| Consistency and Standards: Design layout and structure is maintained throughout the interface. | **Supports:** The information page of the experiences are all have the same structure (headers/subtitles). The website overall has maintains the same style of buttons and options. | No reccomendation other than suggusting more standards for accessibility purposes to accommodate older people. | 1 |
+| Error prevention: Alerts and design that prevent problems from occuring. | Gang | Gang | 2 |
+| Recognition rather than Recall: Avoid depending on user's memory and instead make the design intuitive. | Gang | Gang | 3 |
+| Flexibility and Efficiency of use: Userflow must optimize interaction for the user and be easy too. | Gang | Gang | 2 |
+| Aesthetic and Minimalist Design: Interfaces must be consise, include pertinent features and exclude irrelevent ones.| Gang | Gang | 3 |
+| Helps users recognize, diagnose, and recover from errors: Helpful feedback must be provided to assist with troubleshooting errors.| Gang | Gang | 2 |
+| Help and Documentation: Must have additional documentation to further explain errors and complete tasks. | Gang | Gang | 1 |
