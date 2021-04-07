@@ -3,6 +3,7 @@
 > **Project Description:**
 
 > **Severity Rubric:** 
+
 | Rating Number | Meaning |
 | --- | --- | 
 | 0 | I don't agree that this is a usability problem at all.|
