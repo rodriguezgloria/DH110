@@ -39,7 +39,6 @@
 
 > **Overall Evaluation:**
 
-
 #### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
