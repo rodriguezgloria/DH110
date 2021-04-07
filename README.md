@@ -3,14 +3,18 @@
 > **Project Description:**
 
 ### Web App I
-> screenshot of homepage
+> screenshot of homepage.
+
 url
+
 > **Overall Evaluation:**
 
 ---
 ### Web App II
 > screenshot of homepage
+
 url
+
 > **Overall Evaluation:**
 
 This is a table
