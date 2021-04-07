@@ -9,7 +9,7 @@ url
 
 > **Overall Evaluation:**
 
-##### Heuristic Evaluation 
+#### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation |
 | ---------- | ---| --- | 
 | Visibility of the system | It is good to have the user's radio. | yuh |
@@ -22,7 +22,7 @@ url
 
 > **Overall Evaluation:**
 
-##### Heuristic Evaluation 
+#### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation |
 | ---------- | ---| --- | 
 | Visibility of the system | It is good to have the user's radio. | yuh |
