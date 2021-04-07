@@ -15,7 +15,7 @@
 ---
 ### Airbnb (https://www.airbnb.com)
 >**Description:**
-<img src="./images/airbnbScreenshot.png" width ="500px">
+<img src="./images/airbnbScreenshot.png" width ="800px">
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
@@ -26,7 +26,7 @@
 ---
 ### Trip Advisor (https://www.tripadvisor.com)
 >**Description:**
-<img src="./images/tripadvisorScreenshot.png" width ="500px">
+<img src="./images/tripadvisorScreenshot.png" width ="800px">
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
