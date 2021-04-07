@@ -1,5 +1,6 @@
-# Assignment 1: Heuristic Evauluation 
-## DH 110, Gloria Rodriguez 
+# Unknown Title Project
+---
+## by Gloria Rodriguez, for Digital Humanities 110
 This is the contents
 
 https://www.npr.org
