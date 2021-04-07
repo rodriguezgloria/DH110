@@ -11,7 +11,7 @@
 | 3 | Major usability problem: important to fix, so should be given high priority.|
 > **Source:** https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-### Web App I
+### Airbnb
 >**Description:**
 
 > screenshot of homepage.
@@ -26,12 +26,11 @@ url
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
 ---
-### Web App II
+### Tripadvisor 
+> **Link: ** https://www.tripadvisor.com
 >**Description:**
 
 > screenshot of homepage
-
-url
 
 > **Overall Evaluation:**
 
