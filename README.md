@@ -22,6 +22,15 @@
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
 
 ---
 ### Tripadvisor (https://www.tripadvisor.com)
@@ -35,4 +44,12 @@
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
+| Gang | Gang | Gang | Gang |
 | Gang | Gang | Gang | Gang |
