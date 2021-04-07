@@ -2,8 +2,8 @@
 ## by Gloria Rodriguez for Digital Humanities 110
 > **Project Description:** 
 
-#### Severity Scale 
 ---
+#### Severity Scale 
 | Number | Meaning |
 | --- | --- | 
 | 0 | I don't agree that this is a usability problem at all.|
@@ -12,8 +12,8 @@
 | 3 | Major usability problem: important to fix, so should be given high priority.|
 > **Source:** https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/
 
-### Airbnb (https://www.airbnb.com)
 ---
+### Airbnb (https://www.airbnb.com)
 >**Description:**
 
 > screenshot of homepage.
@@ -27,8 +27,8 @@ url
 | ---------- | ---| --- | --- |
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
-### Trip Advisor (https://www.tripadvisor.com)
 ---
+### Trip Advisor (https://www.tripadvisor.com)
 >**Description:**
 
 > screenshot of homepage
