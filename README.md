@@ -4,7 +4,7 @@
 
 ---
 #### Severity Scale 
-| Number | Meaning |
+| Number | Description |
 | --- | --- | 
 | 0 | I don't agree that this is a usability problem at all.|
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project.|
