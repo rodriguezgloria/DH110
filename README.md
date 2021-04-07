@@ -1,4 +1,4 @@
-# IDK
+# How to 
 ## by Gloria Rodriguez for Digital Humanities 110
 > **Project Description:**
 
