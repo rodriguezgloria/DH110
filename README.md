@@ -52,4 +52,4 @@
 | Flexibility and Efficiency of use: Userflow must optimize interaction for the user and be easy too. | Gang | Gang | Gang |
 | Aesthetic and Minimalist Design: Interfaces must be consise, include pertinent features and exclude irrelevent ones.| Gang | Gang | Gang |
 | Helps users recognize, diagnose, and recover from errors: Helpful feedback must be provided to assist with troubleshooting errors.| Gang | Gang | Gang |
-| Help and Documentation: | Gang | Gang | Gang |
+| Help and Documentation: Must have additional documentation to further explain errors and complete tasks. | Gang | Gang | Gang |
