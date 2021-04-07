@@ -10,7 +10,7 @@ url
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
-| Heuristics & Description | Web App Evaluation | Reccomdendation || Severity Rank |
+| Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
 | ---------- | ---| --- | --- |
 | Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
