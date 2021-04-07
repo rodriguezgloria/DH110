@@ -37,7 +37,7 @@
 >**Description:** Tripadvisor is an online travel company that functions as a website to assist travelers with hotel reservations and vacation rentals across the world. In addition their website also provides other services such as book different types of transportation (i.e. rental cars and flights), and suggustions for popular attractions and resturants in the local area where travelers are staying. They also offer local experiences as well that are hosted by various companies. 
 <img src="./images/tripadvisorScreenshot.png" width ="1000px">
 
-> **Overall Evaluation:**
+> **Overall Evaluation:** The website has great visibility of system status because lets the user know when it is processing their request by providing a message and has rapid feedback when problems are occurring. Yet tripadvisor needs to develop more efficient design when users are searching for experiences because there is limited hovering functions and icons that are available. As well as too many buttons that tarnish the aesthetic of the website to enable quick accessability. 
 
 #### Heuristic Evaluation 
 | Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
