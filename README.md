@@ -10,9 +10,9 @@ url
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
-| Heuristics & Description | Web App Evaluation | Reccomdendation |
+| Heuristics & Description | Web App Evaluation | Reccomdendation || Severity Rank |
 | ---------- | ---| --- | 
-| Visibility of the system | It is good to have the user's radio. | yuh |
+| Visibility of the system | It is good to have the user's radio. | yuh | 5 |
 
 ---
 ### Web App II
@@ -23,6 +23,6 @@ url
 > **Overall Evaluation:**
 
 #### Heuristic Evaluation 
-| Heuristics & Description | Web App Evaluation | Reccomdendation |
-| ---------- | ---| --- | 
-| Visibility of the system | It is good to have the user's radio. | yuh |
+| Heuristics & Description | Web App Evaluation | Reccomdendation | Severity Rank |
+| ---------- | ---| --- | --- |
+| Visibility of the system | It is good to have the user's radio. | yuh | 5 |
