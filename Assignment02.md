@@ -13,7 +13,18 @@ Specifically the usability test was utilized to address the three high-yield con
 
 ---
 ### Methods
-Yuh
+The usability test was proctored in my apartment using my own laptop and I used a program, Zoom, to record. Specifically, it documented the laptop screen which was split between airbnb and the survey, the proctor and the participant, and the audio.
+
+The breakdown of the usability test
+> * Introduction / Debriefing
+> * Consent Forms
+> * Background Questions 
+> * Pre-Test Questions 
+> * Instructions for Tasks
+> * Tasks 
+> * Post-Test Questions (including SUS questionnaire)
+> * Product Satisfaction Card
+> * Demographics 
 
 ---
 ### Links 
