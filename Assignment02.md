@@ -33,8 +33,8 @@ Within the usability test addition results were measured using the Likert-Scale:
 > * Likliness to do Task beyond Usability Test
 
 In addition short-term responses were collected:
-> * Like the most about Airbnb
-> * Dislike the most about Airbnb
+> * Likes about Airbnb
+> * Dislikes about Airbnb
 
 ---
 ### Links 
@@ -44,3 +44,4 @@ In addition short-term responses were collected:
 
 ---
 ### Reflection 
+Yuh
