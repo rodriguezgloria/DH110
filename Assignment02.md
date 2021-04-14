@@ -7,9 +7,9 @@ Airbnb is a popular booking website that travelers use to stay at hotels, homes,
 By conducting a usability test for Airbnb, it enables further inspection in regards to evaluate the websites interface and problematic instances when the user is navigating the website. The purpose of proctoring a usability test is to gain more insight about the interface to facilitate a good user experience and further enhance it. During the proctoring session the user's facial expressions and how they go about navigating the website as they complete a series of tasks are both recorded simultaneously. Also during the useability test, users are asked to announciate their own thought process too as they complete the task.
 
 Specifically the usability test was utilized to address the three high-yield concerns (i.e. heuristics that were rated '3' on the severity scale.) which are the following:
- >..* No errors occuring when required fields are left blank or incomplete when trying to search. 
- >..* The descriptions of the experiences vary in terms of the amount of detail since there is no standard outline.
- >..* There are not enough icons visible 
+ ..* No errors occuring when required fields are left blank or incomplete when trying to search. 
+ ..* The descriptions of the experiences vary in terms of the amount of detail since there is no standard outline.
+ ..* There are not enough icons visible 
 
 ---
 ### Methods
