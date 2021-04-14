@@ -8,7 +8,7 @@
 
 ---
 ### Links 
-> **Script & Survey:**
+> **Script & Survey:** https://forms.gle/ztxBCy9ifmLUDJUw9
 
 > **Video of Usability Test:**
 
