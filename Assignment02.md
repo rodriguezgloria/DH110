@@ -8,7 +8,7 @@ By conducting a usability test for Airbnb, it enables further inspection in rega
 
 Specifically the usability test was utilized to address the three high-yield concerns (i.e. heuristics that were rated '3' on the severity scale.) which are the following:
 > * There are not enough icons visible about other pertinent details for accesibility issues and level of difficulty. 
-> > * The descriptions of the experiences vary in terms of the amount of detail since there is no standard outline.
+> * The descriptions of the experiences vary in terms of the amount of detail since there is no standard outline.
 > * No errors occuring when required fields are left blank or incomplete when trying to search. 
 
 ---
