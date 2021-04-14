@@ -44,4 +44,4 @@ In addition short-term responses were collected:
 
 ---
 ### Reflection 
-After the pilot usability test, it was very enlightening as a moderator to discover how prevelent issues are in an established website such as Airbnb. 
+After the pilot usability test, it was very enlightening as a moderator to discover how prevelent issues are in an established website such as Airbnb. Specifically, the lack of standardization was very prevelent on the experience pages that were intended to provide more information. For example, there was no structure in the descriptions of the experience about difficulty (in regards to stamina) and acessibility which enabled missing information or it took a while to look for it if it was included. 
