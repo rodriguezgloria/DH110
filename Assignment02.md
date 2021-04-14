@@ -23,7 +23,7 @@ The breakdown of the usability test:
 > * Instructions for Tasks
 > * Tasks 
 > * Post-Test Questions (including SUS questionnaire)
-> * Product Satisfaction Card
+> * Product Satisfaction Card for Personal Reactions
 > * Demographics 
 
 Within the usability test addition results were measured using the Likert-Scale:
