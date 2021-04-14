@@ -10,7 +10,7 @@
 ### Links 
 > **Script & Survey:** https://forms.gle/ztxBCy9ifmLUDJUw9
 
-> **Video of Usability Test:**
+> **Video of Usability Test:** https://youtu.be/ATSe9RjK5h8
 
 ---
 ### Reflection 
