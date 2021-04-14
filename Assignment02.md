@@ -44,4 +44,4 @@ In addition short-term responses were collected:
 
 ---
 ### Reflection 
-IDK
+After the pilot usability test, it was very enlightening as a moderator to discover how prevelent issues are in an established website such as Airbnb. 
