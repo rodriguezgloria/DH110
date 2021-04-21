@@ -39,8 +39,8 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 ---
 
 ### Insights 
-(1) The user found that curating an iternerary for a family vacation was harder than making one for a vacation with friends.
-> Quote 
+(1) The user found that curating an itinerary for a family vacation was took longer than making one for a vacation with friends.
+> The family itinerary definetly took twice as long (10 minutes) than the friend itinerary (5 minutes) because there was more to consider like difficulty level and stamina for my parents.  
 
 (2) After running a search for travel experiences the descriptions varied in terms of usefulness of information since it was not consistent across all experiences
 > Quote II
