@@ -45,10 +45,10 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 (2) After running a search for travel experiences the descriptions varied in terms of usefulness of information. 
 > Quote II
 
-(3) 
+(3) While looking on the experience page, the user relies on a standardized structure of the way information is organized.
 > Quote III
 
-(4)
+(4) 
 > Quote IV
 
 ### Reflection 
