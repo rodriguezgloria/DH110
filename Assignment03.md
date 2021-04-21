@@ -46,7 +46,7 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 > The descriptions were satifactory but they could have been more consise when you click on the webpage that explains the experience so I dont have to scroll all they way down and read at the very end. 
 
 (3) While looking on the experience page, the user relies on a standardized structure of the way information is organized to understand the experience efficiently.
-> Gang
+> They put information in different sections like what is included and what is no so you can know what to expect which I found very useful because it made me navigate it way better.
 
 (4) Discovered there was a lot missing information when looking for difficulty of experience and not much contextualization. 
 > Quote IV
