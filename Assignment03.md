@@ -12,20 +12,22 @@ Thus I hope by addressing the issues that are prevelent today I can assist famil
 The target users are people of all ages who make travel plans (domestically or internationally) with their families who are older or people who have other preexisting conditions that impair them from participating in travel experiences. There is no prior experience required other than intending to travel with family who face adversities due to issues beyond their control. With this web-application, the user would have an easier time planning inclusive travel experiences where everyone is able to partake without hassle. 
 
 ### Research Methods
-To cultivate a better understanding of how to design a web-application that is accessible for users from all-ages - I facilitated a contextual inquiry which was conducted using an audio recorder / transcription program Otter. 
+To cultivate a better understanding of how to design a web-application that is accessible for users from all-ages - I facilitated a contextual inquiry which was conducted using an audio recorder / transcription program Otter. The contextual inquiry was conducted in 
 
 The composition of the session can be broken down into three parts:
-> 1. 
-> 2.
-> 3.
+> 1. Background 
+> 2. Observation
+> 3. Follow-Up Questions 
 
 ---
 
 ### Contextual Inquiry Guide 
+The script: https://docs.google.com/document/d/1T9KokhRUu8O-SZFDgd19Ap7wsA1rxRfayzPbKV8xN_U/edit?usp=sharing
 
 ---
 
 ### Data
+The audio recording:
 
 ---
 
