@@ -42,13 +42,13 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 (1) The user found that curating an iternerary for a family vacation was harder than making one for a vacation with friends.
 > Quote 
 
-(2) After running a search for travel experiences the descriptions varied in terms of usefulness of information. 
+(2) After running a search for travel experiences the descriptions varied in terms of usefulness of information since it was not consistent across all experiences
 > Quote II
 
-(3) While looking on the experience page, the user relies on a standardized structure of the way information is organized.
+(3) While looking on the experience page, the user relies on a standardized structure of the way information is organized to understand the experience efficiently.
 > Quote III
 
-(4) 
+(4) Discovered there was a lot missing information when looking for difficulty of experience and not much contextualization. 
 > Quote IV
 
 ### Reflection 
