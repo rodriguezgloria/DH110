@@ -43,10 +43,10 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 > The family itinerary definetly took twice as long (10 minutes) than the friend itinerary (5 minutes) because there was more to consider like difficulty level and stamina for my parents which was not clear.  
 
 (2) After running a search for travel experiences the descriptions varied in terms of usefulness of information since it was not consistent across all experiences
-> The descriptions were satifactory but they could have been more consise when you click on the webpage that explains the experience. 
+> The descriptions were satifactory but they could have been more consise when you click on the webpage that explains the experience so I dont have to scroll all they way down and read at the very end. 
 
 (3) While looking on the experience page, the user relies on a standardized structure of the way information is organized to understand the experience efficiently.
-> Quote III
+> Gang
 
 (4) Discovered there was a lot missing information when looking for difficulty of experience and not much contextualization. 
 > Quote IV
