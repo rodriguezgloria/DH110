@@ -17,7 +17,7 @@ To cultivate a better understanding of how to design a web-application that is a
 The composition of the session can be broken down into three parts:
 > 1. Background - Asked a series of background questions to help understand the target-users experience traveling with family and friends, as well as their experience with planning as well. Also I asked them how often they travel as well and their family composition. 
 > 2. Observation - Took place during an activity designed for the participant to get a better understanding of what the user looks for when selecting travel experiences and how that is different between friends and family. Gathered information by taking note of facial expressions and their opinions regarding the output from the search. Also asked questions to clarify why they are doing things a specific way.
-> 3. Follow-Up Questions - These questions were asked with the purpose of getting more qualitative data about their experiences when doing these activities like what can be improved and suggustions for what needs are not satisfied. 
+> 3. Follow-Up Questions - These questions were asked with the purpose of getting more qualitative data about their experiences when doing these activities like what can be improved and suggustions for what needs are or are not satisfied. 
 
 ---
 
