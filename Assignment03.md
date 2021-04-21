@@ -39,5 +39,13 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 ---
 
 ### Insights 
+(1)
+> Quote 
+(2)
+> Quote II
+(3)
+> Quote III
+(4)
+> Quote IV
 
 ### Reflection 
