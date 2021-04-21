@@ -32,7 +32,7 @@ The audio recording: https://ucla.box.com/s/g6itctn0eg205kg8npi3tc6d4mfv1ytl
 ---
 
 ### Transcript and Notes 
-The transcript: 
+The transcript: https://docs.google.com/document/d/1Nas2dgPHSBIeZKjGd5mOPuUmtNe7k2tbJtpHpvrLlEw/edit?usp=sharing
 
 My observation notes:
 
