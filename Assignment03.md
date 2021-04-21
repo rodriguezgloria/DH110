@@ -39,13 +39,13 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 ---
 
 ### Insights 
-(1)
+(1) The user found that curating an iternerary for a family vacation was harder than making one for a vacation with friends.
 > Quote 
 
-(2)
+(2) After running a search for travel experiences the descriptions varied in terms of usefulness of information. 
 > Quote II
 
-(3)
+(3) 
 > Quote III
 
 (4)
