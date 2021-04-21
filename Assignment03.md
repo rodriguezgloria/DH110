@@ -27,11 +27,13 @@ The script: https://docs.google.com/document/d/1T9KokhRUu8O-SZFDgd19Ap7wsA1rxRfa
 ---
 
 ### Data
-The audio recording:
+The audio recording: https://ucla.box.com/s/g6itctn0eg205kg8npi3tc6d4mfv1ytl
 
 ---
 
 ### Transcript and Notes 
+The transcript:
+My observation notes:
 
 ---
 
