@@ -48,7 +48,7 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 (3) While looking on the experience page, the user relies on a standardized structure of the way information is organized to understand the experience efficiently.
 > They put information in different sections like what is included and what is no so you can know what to expect which I found very useful because it made me navigate it way better.
 
-(4) Discovered there was a lot missing information when looking for difficulty of experience and not much contextualization. 
-> Quote IV
+(4) Discovered there was a lot missing information or too much when looking for difficulty of experience and not much contextualization. 
+> There was either too much information or did not offer as much information and what would be better is to include videos in addition to pictures from the experience to get a better idea of how the experience is like is it scary or is there high elevation. 
 
 ### Reflection 
