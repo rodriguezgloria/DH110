@@ -40,10 +40,10 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 
 ### Insights 
 (1) The user found that curating an itinerary for a family vacation was took longer than making one for a vacation with friends.
-> The family itinerary definetly took twice as long (10 minutes) than the friend itinerary (5 minutes) because there was more to consider like difficulty level and stamina for my parents.  
+> The family itinerary definetly took twice as long (10 minutes) than the friend itinerary (5 minutes) because there was more to consider like difficulty level and stamina for my parents which was not clear.  
 
 (2) After running a search for travel experiences the descriptions varied in terms of usefulness of information since it was not consistent across all experiences
-> Quote II
+> The descriptions were satifactory but they could have been more consise when you click on the webpage that explains the experience. 
 
 (3) While looking on the experience page, the user relies on a standardized structure of the way information is organized to understand the experience efficiently.
 > Quote III
