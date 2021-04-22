@@ -52,4 +52,4 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 > There was either too much information or did not offer as much information and what would be better is to include videos in addition to pictures from the experience to get a better idea of how the experience is like is it scary or is there high elevation. 
 
 ### Reflection 
-While preparing for the contextual inquiry, I had a vivid invision of how I wanted to designed 
+While preparing for the contextual inquiry, I had a vivid vision of how I wanted to design the interface for the website to enhance the user experience. Specifically,
