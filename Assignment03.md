@@ -54,4 +54,6 @@ My observation notes: https://ucla.box.com/s/4a7aogtes19xw6gnnt7fzpe3dikabrwj
 ### Reflection 
 While preparing for the contextual inquiry, I had a vivid vision of how I wanted to design the interface for the website to enhance the user experience. Specifically, it began with what would help me plan a family vacation to include my parents more easily however through this experience it was allowed me to understand other peoples experiences and struggles so I can better understand the user. 
 
-The participant had prior experience traveling with her parents and siblings but she had no experience planning with them because it was usually her parents doing so. However, when she found 
+The participant had prior experience traveling with her parents and siblings but they had no experience planning with them because it was usually her parents doing so. However, when they were planning a hypthetical itinerary for their parents they expressed that there was a need to change websites to search for experiences to include tham. Also, they relied a lot on a standardization of descriptions of the travel experiences rather than skimming through a series of paragraphs. It was great to know that they relied on a lot of standardizations and signifiers to get a better understanding of what the experience entails. 
+
+Facilitating. 
