@@ -14,10 +14,10 @@ The two following features being integrated from prior user research are:
 
 ### Personas & Empathy Maps
 
-#### Leyat - Persona
+#### LNadia - Persona
 Insert the image. 
 
-#### Leyat - Empathy Map
+#### Nadia - Empathy Map
 Insert the image. 
 
 #### Gerald - Persona
