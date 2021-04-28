@@ -32,6 +32,7 @@ Insert the image.
 #### Nadia - Scenerio & Journey Map
 **Why is Nadia using the product** 
 > Here
+
 **How is Nadia using the product** 
 > Here
 
