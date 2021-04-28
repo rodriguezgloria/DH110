@@ -29,7 +29,7 @@ Insert the image.
 ---
 ### User Scenerios & Journey Maps
 
-👩🏿 #### Nadia 
+#### Nadia 👩🏿 
 **Why is Nadia using the product** 
 > Nadia is a laboratory technician who has been imployed for a little over a year so she has paid-timed-off (pto) that she wants to use to go on a trip with her parents. She wants to make it inclusive as posssible since they are older by planning experiences that are safe for them while having fun too. After requesting the time off, she wants to look into what experiences can they all partake in. Therefore, Nadia decided to look at what kinds of things they can do by looking online. Her priority is to find inclusive experiences that her parents can do by keeping their stamina and other health conditions in mind to curate a fun and safe time on vacation.
 
