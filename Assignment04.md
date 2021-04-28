@@ -14,7 +14,7 @@ The two following features being integrated from prior user research are:
 
 ### Personas & Empathy Maps
 
-#### LNadia - Persona
+#### Nadia - Persona
 Insert the image. 
 
 #### Nadia - Empathy Map
