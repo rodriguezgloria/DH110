@@ -29,10 +29,20 @@ Insert the image.
 ---
 ### User Scenerios & Journey Maps
 
-#### Nadia - Scenerio & Journey Map
+#### Nadia 
 **Why is Nadia using the product** 
 > Here
 
 **How is Nadia using the product** 
 > Here
 
+Insert map here.
+
+#### Gerald 
+**Why is Nadia using the product** 
+> Here
+
+**How is Nadia using the product** 
+> Here
+
+Insert map here.
