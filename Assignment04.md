@@ -6,7 +6,7 @@
 
 ### Integrating features to Enhance User Experiences
 The features being integrated from prior user research are:
-> **Standardization of describing experience**
+> **Standardization of describing travel experiences**
 
 ---
 
