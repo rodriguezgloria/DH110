@@ -18,7 +18,7 @@ The two following features being integrated from prior user research are:
 <img src="./images/NADIAPERSONA.png" width=700px>
 
 #### Nadia - Empathy Map
-Insert the image. 
+<img src="./images/NADIAEM.png" width=700px>
 
 #### Gerald - Persona
 Insert the image.
