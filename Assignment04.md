@@ -14,9 +14,19 @@ The two following features being integrated from prior user research are:
 
 ### Personas & Empathy Maps
 
-#### Leyat: Persona & 
+#### Leyat - Persona
+Insert the image. 
 
+#### Leyat - Empathy Map
+Insert the image. 
+
+#### Gerald - Persona
+Insert the image.
+
+#### Gerald - Empathy Map
+Insert the image. 
 
 ---
-
 ### User Scenerios & Journey Maps
+
+
