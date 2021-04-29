@@ -24,7 +24,7 @@ The two following features being integrated from prior user research are:
 <img src="./images/GERALDPERSONA.png" width=700px>
 
 #### Gerald - Empathy Map
-Insert the image. 
+<img src="./images/GERALDEM.png" width=700px>
 
 ---
 ### User Scenerios & Journey Maps
