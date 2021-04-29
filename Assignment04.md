@@ -36,13 +36,13 @@ Insert the image.
 **How is Nadia using the product** 
 > After destressing from a long day at work, Nadia decides to search the internet with a country in mind and specific dates for experiences that her and her family would find fun as well as safe. Easily finding an experience that peaked her parents interests, she clicks on the title to lead to the travel experience description page. Not only was it well-organized by including headers and consise descriptions. It also included icons for more information in regards to the difficulty of the experience and any relevent information for people with certain health backgrounds. Therefore, it was not an effortfull experience since she did not have to parse through huge paragraphs that contained minimal information she needed so she was easily able to click on the booking tab after showing the experience to her parents.
 
-Insert map here.
+<img src="./images/NADIAJM.png" width=700px>
 
 #### Gerald 
-**Why is Nadia using the product** 
+**Why is Gerald using the product** 
 > Here
 
-**How is Nadia using the product** 
+**How is Gerald using the product** 
 > Here
 
 Insert map here.
