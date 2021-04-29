@@ -46,3 +46,4 @@ The two following features being integrated from prior user research are:
 > After lots of nagging from his kids to try a new website, he finally gave in the following morning to try it out. Theres an immediate search bar that not only facilitates the basic place and the dates, it also gives options for the type of experience he wants such as the difficulty of the travel experience. After filling out everything successfully, the search results were nice to look at because it included a brief sentence about the experience rather than the first sentence in the description page. Also, it included the option to like and dislike an experience from his initial viewing. He was able to add more filters to accomodate his health needs too so overall for him it was a lot easier to find something he liked without a thousand tabs open so he was able to book the experience without any other assistance from his kids. 
 
 <img scr="./images/GERALDJM.png" width=700px>
+
