@@ -40,7 +40,7 @@ The two following features being integrated from prior user research are:
 
 #### Gerald 
 **Why is Gerald using the product** 
-> Gerald is a retired salesman who has grown-up always enjoying traveling but as things become increasingly more digital - planning is not so easy anymore. He thrives on his independence of being able to travel on his own, however he wants to do the same with planning by not depending on his kids anymore. Now, he is in the early stages of preparing for an upcoming trip so he wants to conduct a quick and efficient search query to find things to do. 
+> Gerald is a retired salesman who has grown-up always enjoying traveling but as things become increasingly more digital - planning is not so easy anymore. He thrives on his independence of being able to travel on his own, however he wants to do the same with planning by not depending on his kids anymore. Now, he is in the early stages of preparing for an upcoming trip so he wants to conduct a quick and efficient search query to find things to do through brief descriptions and features of the experiences readiliy available without clicking on the title to lead to a new tab.
 
 **How is Gerald using the product** 
 > Here
