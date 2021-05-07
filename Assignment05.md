@@ -27,9 +27,11 @@ File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp
 <img src="./images/TESTEDWIREFLOW.jpg" width=700px>
 File: https://drive.google.com/file/d/1lehvYZ6bkCSwU-fTMw50LJAr8idHy10O/view?usp=sharing
 
+---
+### Reflection 
+
 #### First Task: Navigating the travel experience description page (Green)
 > **Tester’s confusion or unexpected interactions:** The user immediately was immediatelty confused because rather than typing information straight into the search bar, they directed their focus to the log-in page which was kinda unexpected since I did not expect that button to be used for anything. Therefore, because of this assumption I made it produced confusion for the user since the button did not afford anything. In addition, I realized during the proctoring the type filter is under search bar was left black which made the user confused too and I need to be more specific in what exactly which was a fault on the developing end since they were not filled in.
-
 
 > **Task Completion Status:** The task involved navigating the travel experience page and being able to look for details in regards to what is included, safety, and difficulty of the task in which the user believed they were able to do so since it was intuitive and easy for them. Specifically, they liked how easy it was to apply the filters which made navigating the experience description page a lot easier for them and enabled them to book a trip easier with the structure of the experience. They also believed it was a simple one step process to book. 
 
@@ -38,10 +40,4 @@ File: https://drive.google.com/file/d/1lehvYZ6bkCSwU-fTMw50LJAr8idHy10O/view?usp
 
 > **Task Completion Status:** The task involved finding an experience easily and knowing what other options are which was done by comparing. They found it a lot easier to do so with the feature available to them and liked the minimalistic structure for the comparing page and enjoyed not having the idea of so many tabs open to compare. In addition they enjoyed how easy it was to book an experience from there as well. 
 
----
-
-### Reflection
-
-**Summary:**
-
-**Future Changes for feedback:**
+**Future Changes for feedback:** 
