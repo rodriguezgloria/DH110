@@ -11,7 +11,7 @@
 
 
 #### Features & Tasks:
-> Include here.
+> The features that are going to be integrated on the following low-fidelity prototype are going to be tested 
 
 ---
 
