@@ -36,7 +36,7 @@ File: https://drive.google.com/file/d/1lehvYZ6bkCSwU-fTMw50LJAr8idHy10O/view?usp
 #### Second Task: Finding an experience via search query (Purple)
 > **Tester’s confusion or unexpected interactions:** Initially it was surpsing that the user did not click on the saved experience page like imagined, rather they went through the search query again and clicked on the description page. While they were navigating the travel experience this time around they were confused by the term 'ammenities' and suggusted that there should be an easier word that everyone can understand. Additionally when they changed view to map view, they did not understand what it does. When they use proceeded to the experience they understood that you can compare by location and by experience but wondered if you can pick from both location and experience compare. As they compared the selected experiences, they wanted to know if price can be included as well. 
 
-> **Task Completion Status:** The task involved finding an experience easily and knowing what other options are which was done by comparing. They found it a lot easier to do so with the feature available to them and liked the minimalistic structure for the comparing page and enjoyed 
+> **Task Completion Status:** The task involved finding an experience easily and knowing what other options are which was done by comparing. They found it a lot easier to do so with the feature available to them and liked the minimalistic structure for the comparing page and enjoyed not having the idea of so many tabs open to compare. In addition they enjoyed how easy it was to book an experience from there as well. 
 
 ---
 
