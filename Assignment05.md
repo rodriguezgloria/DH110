@@ -17,6 +17,7 @@
 
 ### Wireframes & Wireflows
 <img src="./images/OGWIREFRAME.png" width=700px>
+https://github.com/rodriguezgloria/DH110/blob/aeebc0b1f13f5b115a18afb2a97e13695ccca8fb/images/OGWIREFRAME.jpg
 File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp=sharing
 
 ---
