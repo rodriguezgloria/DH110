@@ -34,7 +34,7 @@ File: https://drive.google.com/file/d/1lehvYZ6bkCSwU-fTMw50LJAr8idHy10O/view?usp
 > **Task Completion Status:** The task involved navigating the travel experience page and being able to look for details in regards to what is included, safety, and difficulty of the task in which the user believed they were able to do so since it was intuitive and easy for them. Specifically, they liked how easy it was to apply the filters which made navigating the experience description page a lot easier for them and enabled them to book a trip easier with the structure of the experience. They also believed it was a simple one step process to book. 
 
 #### Second Task: Finding an experience search query (Purple)
-> **Tester’s confusion or unexpected interactions:** 
+> **Tester’s confusion or unexpected interactions:** Initially it was surpsing that the user did not click on the saved experience page like imagined, rather they went through the search query again and clicked on the description page. 
 
 > **Task Completion Status:** The task involved 
 
