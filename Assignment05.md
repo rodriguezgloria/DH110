@@ -40,4 +40,4 @@ File: https://drive.google.com/file/d/1lehvYZ6bkCSwU-fTMw50LJAr8idHy10O/view?usp
 
 > **Task Completion Status:** The task involved finding an experience easily and knowing what other options are which was done by comparing. They found it a lot easier to do so with the feature available to them and liked the minimalistic structure for the comparing page and enjoyed not having the idea of so many tabs open to compare. In addition they enjoyed how easy it was to book an experience from there as well. 
 
-**Future Changes for feedback:** 
+**Future Changes for feedback:** The experience of conducting these tests was very insightful because I was able to test whether the notes and results from previous user testing were imployed correctly during the design. While a lot of things were such as the easiness of finding a travel experience that is accessible to everyone was, little small details were left out such as specifiying the type which is what I will fix right away. Additionally, 
