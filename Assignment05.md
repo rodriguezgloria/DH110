@@ -3,14 +3,14 @@
 
 ### Brief Summary
 
-#### User Research:
+#### Purpose
+> The purpose for developing and testing the following low-fidelity prototype is to help visualize the design of features that will be employed for future use by the target user population.
+
+#### User Personas:
 > Include here. 
 
-#### Persona & 2 Features:
+#### Features & Tasks:
 > Include here.
-
-#### Purpose:
-> Include here. 
 
 ---
 
