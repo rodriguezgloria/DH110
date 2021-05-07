@@ -17,7 +17,7 @@
 
 ### Wireframes & Wireflows
 <img src="./images/OGWIREFRAME.png" width=700px>
-> File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp=sharing
+File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp=sharing
 
 ---
 
