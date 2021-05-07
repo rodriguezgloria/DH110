@@ -16,7 +16,7 @@
 ---
 
 ### Wireframes & Wireflows
-<img src="./images/OGWIREFRAME.png" width=700px>
+<img src="./images/OGWIREFRAME.jpg" width=700px>
 File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp=sharing
 
 ---
@@ -24,7 +24,7 @@ File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp
 ### Testing Wireflows
 > **Video:** Insert Link
 
-
+<img src="./images/LOWFITESTED.jpg" width=700px>
 #### First Task: Travel experience page (Green)
 > **Tester’s confusion or unexpected interactions:** 
 > **Task Completion Status:** 
