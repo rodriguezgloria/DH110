@@ -11,7 +11,7 @@
 
 
 #### Features & Tasks:
-> The features that are going to be integrated on the following low-fidelity prototype are going to be tested by conducting prior user research that involves usability testing from competing websites such as Airbnb, Tripadvisor, and 
+> The features, the travel experience description page and the travel experience search query, are going to be integrated on the following low-fidelity prototype are going to be tested were developed through conducting prior user research that involves usability testing from competing websites such as Airbnb, Tripadvisor, and Expedia, facilitating a contextual inquiry of a target user, and observation notes that were written during these various methods.
 
 ---
 
