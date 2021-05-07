@@ -24,13 +24,12 @@ File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp
 ### Testing Wireflows
 > **Video:** Insert Link
 
-#### First Task: Travel experience page
-Insert Picture for wireflow of first task 
+
+#### First Task: Travel experience page (Green)
 > **Tester’s confusion or unexpected interactions:** 
 > **Task Completion Status:** 
 
-#### Second Task: Travel experience page
-Insert Picture for wireflow of second task 
+#### Second Task: Travel experience page (Purple)
 > **Tester’s confusion or unexpected interactions:** 
 > **Task Completion Status:** 
 
