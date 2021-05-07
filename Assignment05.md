@@ -25,6 +25,7 @@ File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp
 > **Video:** Insert Link
 
 <img src="./images/LOWFITESTED.jpg" width=700px>
+
 #### First Task: Travel experience page (Green)
 > **Tester’s confusion or unexpected interactions:** 
 > **Task Completion Status:** 
