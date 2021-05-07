@@ -6,7 +6,7 @@
 #### User Research:
 Include here. 
 
-#### Persona & 2 Features:
+#### Persona & 3 Features:
 > Include here.
 
 #### Purpose:
@@ -15,8 +15,8 @@ Include here.
 ---
 
 ### Wireframes & Wireflows
-
-> *Link:*
+Include Picture Here
+> **Link:** PDF Link
 
 ---
 
