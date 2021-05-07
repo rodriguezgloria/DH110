@@ -7,9 +7,8 @@
 > The purpose for developing and testing the following low-fidelity prototype is to help visualize the design of features that will be employed for future use by the target user population.
 
 #### User Personas:
-> The user personas that were curated from user research have:
+> The user personas that were curated from user research have: that I have identified can be characterized by the following: desire to travel with friends, family, or just themselves, book travel experiences with specific accomodational needs, be of any age, a need for a soultion to help with finding travel experiences easily rather than struggling, can have little experience to being tech savvy in regards to navigating the website.
 
-> that I have identified can be characterized by the following: people of a legal driving age, own a car, in Los Angeles, likely not tourists, more likely to be current college students or recent grads; they have the desire and ability to drive to places and thus, need a parking solution to assist them; and they do not need any particular level of expertise or tech savviness to use this application.
 
 #### Features & Tasks:
 > Include here.
