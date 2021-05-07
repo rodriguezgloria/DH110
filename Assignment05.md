@@ -25,10 +25,12 @@ Include Picture Here
 
 Insert Picture for wireflow of first task 
 > **Tester’s confusion or unexpected interactions:** 
+
 > **Task Completion Status:** 
 
 Insert Picture for wireflow of second task 
 > **Tester’s confusion or unexpected interactions:** 
+
 > **Task Completion Status:** 
 
 ---
