@@ -11,7 +11,7 @@
 
 
 #### Features & Tasks:
-> The features, the travel experience description page and the travel experience search query, are going to be integrated on the following low-fidelity prototype are going to be tested were developed through conducting prior user research that involves usability testing from competing websites such as Airbnb, Tripadvisor, and Expedia, facilitating a contextual inquiry of a target user, and observation notes that were written during these various methods.
+> The tasks, the travel experience description page and the travel experience search query, are going to be integrated on the following low-fidelity prototype are going to be tested were developed through conducting prior user research that involves usability testing from competing websites such as Airbnb, Tripadvisor, and Expedia, facilitating a contextual inquiry of a target user, and observation notes that were written during these various methods for feature integration such as more standardization across descriptions like icons, safety, and ability to compare.
 
 ---
 
@@ -26,12 +26,14 @@ File: https://drive.google.com/file/d/1rKumdADs4Wx6N40-2gtO1sTZszHhQzjO/view?usp
 
 <img src="./images/TESTEDWIREFLOW.jpg" width=700px>
 
-#### First Task: Travel experience page (Green)
+#### First Task: Travel experience description page (Green)
 > **Tester’s confusion or unexpected interactions:** 
+
 > **Task Completion Status:** 
 
-#### Second Task: Travel experience page (Purple)
+#### Second Task: Travel experience search query (Purple)
 > **Tester’s confusion or unexpected interactions:** 
+
 > **Task Completion Status:** 
 
 ---
