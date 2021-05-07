@@ -1,4 +1,4 @@
-# Assignment 4 - Contextual Inquiry 
+# Assignment 4 - Persona + Scenerio
 ## by Gloria Rodriguez for Digital Humanities 110 (Spring 2021)
 
 ### Purpose of UX Storytelling 
