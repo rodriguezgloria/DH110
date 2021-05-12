@@ -1,7 +1,7 @@
 # Assignment 6 - High-Fidelity Prototype Part I (Yellow)
 ## by Gloria Rodriguez for Digital Humanities 110 (Spring 2021)
 
-### Description of Project
+### 🟡 Description of Project
 
 #### Summary 
 > Text.
@@ -17,7 +17,7 @@
 
 ---
 
-### Screen design
+### 🟡 Screen design
 
 #### Material UI Component
 Include a screen shot 
@@ -28,7 +28,7 @@ Include an example from one screen.
 
 ---
 
-### Impressions Test
+### 🟡 Impressions Test
 
 #### Video 
 > Link: 
@@ -42,7 +42,7 @@ Include a screenshot of the test.
 
 ---
 
-### Design System 
+### 🟡 Design System 
 
 #### Typeface family + Size
 Insert a picture.
@@ -56,7 +56,7 @@ Insert a picture.
 
 > Reasoning:
 
-#### Layout grid + Spacing 
+#### 🟡 Layout grid + Spacing 
 Insert a picture.
 
 > The layout grid is ___ + spacing is . 
