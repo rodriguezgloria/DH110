@@ -17,7 +17,7 @@
 
 ---
 
-### 🟡 Screen design
+### 🟡 Screen design (Include community packages to help with design)
 
 #### Material UI Component
 Include a screen shot 
