@@ -37,7 +37,7 @@ Include an example from one screen.
 
 ---
 
-### Accessibility (color-contrast) check
+### 🟡 Accessibility (color-contrast) check
 Include a screenshot of the test.
 
 ---
@@ -56,7 +56,7 @@ Insert a picture.
 
 > Reasoning:
 
-#### 🟡 Layout grid + Spacing 
+#### Layout grid + Spacing 
 Insert a picture.
 
 > The layout grid is ___ + spacing is . 
