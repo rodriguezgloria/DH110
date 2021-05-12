@@ -39,3 +39,19 @@ Include a screenshot of the test.
 ---
 
 ### Design System 
+
+#### Typeface family + Size
+Insert a picture.
+> The type face family is ___ and the font size is . 
+> Reasoning: 
+
+#### Color Scheme: Background + Primary (default text) + Focus 
+Insert a picture.
+> The color scheme involves a ___ background, accompanied by the primary default text of ___ , and the focus is ___ . 
+> Reasoning:
+
+#### Layout grid + Spacing 
+Insert a picture.
+
+Layout grid + spacing
+
