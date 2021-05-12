@@ -4,12 +4,16 @@
 ### Description of Project
 
 #### Summary 
+> Text.
 
 #### Process of High-Fidelity
+> Text.
 
 #### Purpose of High-Fidelity Prototype 
+> Text.
 
 #### The tasks the prototype demonstrates
+> Text.
 
 ---
 
