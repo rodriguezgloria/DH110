@@ -53,5 +53,6 @@ Insert a picture.
 #### Layout grid + Spacing 
 Insert a picture.
 
-Layout grid + spacing
+> The layout grid is ___ + spacing is . 
+> Reasoning: 
 
