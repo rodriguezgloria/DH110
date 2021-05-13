@@ -20,11 +20,12 @@
 ### 🟡 Screen design (Include community packages to help with design)
 
 #### Material UI Component
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1Z4uOooQoil2pwlAg4809N%2FDH-Assignment-6%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
+Include 
 
 #### 3 Different Color Variations
-Include an example from one screen. 
+Yuh
+
+> Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=1%3A42
 
 ---
 
@@ -39,6 +40,8 @@ Include an example from one screen.
 
 ### 🟡 Accessibility (color-contrast) check
 Include a screenshot of the test.
+
+
 
 ---
 
