@@ -10,10 +10,10 @@
 > The process of curating a high-fidelity prototype consisted of further developing the lo-fi wireframes and solving the errors that erised by designing more frames to include more affordances for the user that were not there prior and still maintain strengths of certain features on Figma. After this step, the layout was selected for a mobile phone which included integrating the gestalt principle of proximity to make surer things that were clustered near each other were related and establish consistancy in design across all the wireframes. Additionally, an impressions test was facilitated to help contextualized these things better. Then the typeface and size were selected to enforce consistency too but also account for legibility as well. Lastly, the colors were choosen and experimented through an iterative process using color-contrast checks to increase accessibility while desgning on the mobile app. 
 
 #### Purpose of High-Fidelity Prototype 
-> The purpose of the high-fidelity prototype is 
+> The purpose of the high-fidelity prototype is to help with the later stages of user usability, design assets, and user flow because it will help contextualize any of these issues because during it will be easily identifiable unlike lo-fi wireframes. Also, the function of a hi-fidelity protype is to help stimulate what the final product would look like which can help assure the project meeting the goal of being able to easily plan an inclusive vacation via travel experience activities that people of all ages can partake in. 
 
 #### The tasks the prototype demonstrates
-> Text
+> Lmao. 
 
 ---
 
