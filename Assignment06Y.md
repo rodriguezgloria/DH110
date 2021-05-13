@@ -58,7 +58,7 @@
 > Reasoning: The reasoning for a white background is because it helps facilitate a clean fresh look that enables successful contrast in order to increase the accessibility aspects of the design which is very important. It also a reason why sometimes the default text sometimes changes color too. Additionally, a cool shade of blue was integrated through the entirety of the design to help orient the focus of the user by making the buttons easilt recognizable. For the user to recognize which page they are on it was a different color such as Black to help prevent confusion.
 
 #### Layout grid + Spacing 
-> The layout grid is ___ + spacing is . 
+> The layout grid is based on the figma frames used in design for iPhone 8. Specifically, the type of layout was used  + spacing is . 
 
 > Reasoning: 
 
