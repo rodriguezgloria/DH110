@@ -37,7 +37,7 @@ From left to right is the original, dark mode, darkest mode, and bedtime mode.
 #### Video 
 > Link: None since it was conducted with my group during lecture :) 
 
-> Summary of findings: 
+> Summary of findings: Based on the findings from two of my classmates, they easily recognized the purpose of the project which is to help with travel plans through experiences and find events that are going on near the area they are in as well as catering to the elderly population. They suggusted to include features to afford going back to the previous page. Additionally, they suggusted minimizing the amount of elements that were included in the low-fi wireframe that was using a frame for a macbook pro in order to translate it well into a mobile app that will be easy to navigate. 
 
 ---
 
@@ -63,4 +63,3 @@ From left to right is the original, dark mode, darkest mode, and bedtime mode.
 > The layout grid is based on the figma frames used in design for iPhone 8. Specifically, the type of layout used had 20px margins and by enforcing a layout grid with horizontal lines it was easier to evenly space out elements which are approximately 40px apart if the elements are unrelated and if they are related it is a lot smaller such as 20px. 
 
 > Reasoning: This is very important to hold these standards across especially in regards to spacing because of Gestalt principles, specifically proximity because when things are close to one another they are percieved to be more related to one another than things that are spaced far apart. In addition to being mindful about this it helped organize the elements much more effeciently for the user to understand. The margins were kept at 20px because it will help with legibility to support a clean minimalistic design.
-
