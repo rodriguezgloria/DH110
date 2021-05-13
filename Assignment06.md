@@ -17,7 +17,7 @@
 
 ---
 
-### 🟡 Screen design (Include community packages to help with design)
+### 🟡 Screen design
 
 #### Material UI Component
 <img src="./images/3MAJOR.png" width=700px>
@@ -25,7 +25,7 @@
 #### 3 Different Color Variations
 <img src="./images/3VARS.png" width=700px>
 
-> Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=1%3A42
+> Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=0%3A1
 
 ---
 
