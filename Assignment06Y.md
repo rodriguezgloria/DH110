@@ -13,7 +13,7 @@
 > The purpose of the high-fidelity prototype is to help with the later stages of user usability, design assets, and user flow because it will help contextualize any of these issues because during it will be easily identifiable unlike lo-fi wireframes. Also, the function of a hi-fidelity protype is to help stimulate what the final product would look like which can help assure the project meeting the goal of being able to easily plan an inclusive vacation via travel experience activities that people of all ages can partake in. 
 
 #### The tasks the prototype demonstrates
-> Lmao. 
+> The tasks that the prototype demonstrates are
 
 ---
 
