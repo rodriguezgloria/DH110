@@ -13,7 +13,7 @@
 > Text.
 
 #### The tasks the prototype demonstrates
-> Text.
+> Text
 
 ---
 
