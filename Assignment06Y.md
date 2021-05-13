@@ -25,7 +25,7 @@
 
 #### 3 Different Color Variations
 <img src="./images/3VARS.png" width=700px>
-
+From left to right is the original, dark mode, darkest mode, and bedtime mode.
 > Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=0%3A1
 
 ---
