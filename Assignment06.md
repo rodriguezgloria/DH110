@@ -48,12 +48,11 @@
 ### 🟡 Design System 
 
 #### Typeface family + Size
-> The typeface family is **Helvetica** and the font size for the headers that are in bold are size 36. 
+> The typeface family is **Helvetica** and the font size for the headers that are in bold are **size 36** and all other text is **size 16**. 
 
-> Reasoning: 
+> Reasoning: Helvetica was selected because it is one of the most commonly used since it is very legible. Therefore it should be easy for the users to identify where the headers are and recognize what the page signifies. Additionally, the size difference between the headers and the other text size is to easily distinguish them from each other. 
 
 #### Color Scheme: Background + Primary (default text) + Focus 
-Insert a picture.
 > The color scheme involves a ___ background, accompanied by the primary default text of ___ , and the focus is ___ . 
 
 > Reasoning:
