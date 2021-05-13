@@ -48,8 +48,7 @@
 ### 🟡 Design System 
 
 #### Typeface family + Size
-Insert a picture.
-> The type face family is ___ and the font size is . 
+> The typeface family is **Helvetica** and the font size for the headers that are in bold are size 36. 
 
 > Reasoning: 
 
