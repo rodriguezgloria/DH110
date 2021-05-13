@@ -7,10 +7,10 @@
 > Planning a vacation with family is challenging when accessibility becomes a major issue in regards to booking experiences because a multitude of factors have to be considered such as mobility and stamina in regards to elderly people. Therefore my project would help people plan a trip that is inclusive to everyone in their group by factoring in things that are not commonly seen on current travel booking sites through a mobile-app that all ages can use to have a fun and safe vacation.
 
 #### Process of High-Fidelity
-> Text.
+> The process of curating a high-fidelity prototype consisted of further developing the lo-fi wireframes and solving the errors that erised by designing more frames to include more affordances for the user that were not there prior and still maintain strengths of certain features. After this step, the layout was selected for a mobile phone which included integrating the gestalt principle of proximity to make surer things that were clustered near each other were related and establish consistancy in design across all the wireframes. Then the typeface and size were selected to enforce consistency too but also account for legibility as well. Lastly, the colors were choosen and experimented through an iterative process using color-contrast checks to increase accessibility while desgning on the mobile app. 
 
 #### Purpose of High-Fidelity Prototype 
-> Text.
+> The purpose of the 
 
 #### The tasks the prototype demonstrates
 > Text
