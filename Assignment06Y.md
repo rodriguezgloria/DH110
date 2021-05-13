@@ -60,7 +60,7 @@ From left to right is the original, dark mode, darkest mode, and bedtime mode.
 > Reasoning: The reasoning for a white background is because it helps facilitate a clean fresh look that enables successful contrast in order to increase the accessibility aspects of the design which is very important. It also a reason why sometimes the default text sometimes changes color too. Additionally, a cool shade of blue was integrated through the entirety of the design to help orient the focus of the user by making the buttons easilt recognizable. For the user to recognize which page they are on it was a different color such as Black to help prevent confusion.
 
 #### Layout grid + Spacing 
-> The layout grid is based on the figma frames used in design for iPhone 8. Specifically, the type of layout was used  + spacing is . 
+> The layout grid is based on the figma frames used in design for iPhone 8. Specifically, the type of layout used had 20px margins and by enforcing a layout grid with horizontal lines it was easier to evenly space out elements which are approximately 40px apart if the elements are unrelated and if they are related it is a lot smaller such as 20px. 
 
 > Reasoning: 
 
