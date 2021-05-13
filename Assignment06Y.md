@@ -62,5 +62,5 @@ From left to right is the original, dark mode, darkest mode, and bedtime mode.
 #### Layout grid + Spacing 
 > The layout grid is based on the figma frames used in design for iPhone 8. Specifically, the type of layout used had 20px margins and by enforcing a layout grid with horizontal lines it was easier to evenly space out elements which are approximately 40px apart if the elements are unrelated and if they are related it is a lot smaller such as 20px. 
 
-> Reasoning: This is very important to hold these standards across especially in regards to spacing because of Gestalt principles, specifically proximity because when things are close to one another they are percieved to be more related to one another than things that are spaced far apart. 
+> Reasoning: This is very important to hold these standards across especially in regards to spacing because of Gestalt principles, specifically proximity because when things are close to one another they are percieved to be more related to one another than things that are spaced far apart. In addition to being mindful about this it helped organize the elements much more effeciently for the user to understand. The margins were kept at 20px because it will help with legibility to support a clean minimalistic design.
 
