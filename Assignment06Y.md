@@ -43,6 +43,7 @@ From left to right is the original, dark mode, darkest mode, and bedtime mode.
 
 ### 🟡 Accessibility (color-contrast) check
 <img src="./images/COLORTESTS.png" width=700px>
+
 > Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=0%3A1
 
 ---
