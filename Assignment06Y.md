@@ -4,7 +4,7 @@
 ### 🟡 Description of Project
 
 #### Summary 
-> Text.
+> Planning a vacation with family is challenging when accessibility becomes a major issue in regards to booking experiences because a multitude of factors have to be considered such as mobility and stamina in regards to elderly people. Therefore my project would help people plan a trip that is inclusive to everyone in their group by factoring in things that are not commonly seen on current travel booking sites through a mobile-app that all ages can use to have a fun and safe vacation.
 
 #### Process of High-Fidelity
 > Text.
