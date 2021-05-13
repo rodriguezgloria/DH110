@@ -53,9 +53,9 @@
 > Reasoning: Helvetica was selected because it is one of the most commonly used since it is very legible so I decided to hold it constant for the design to prevent any confusement. Therefore it should be easy for the users to identify where the headers are and recognize what the page signifies. Additionally, the size difference between the headers and the other text size is to easily distinguish them from each other. 
 
 #### Color Scheme: Background + Primary (default text) + Focus 
-> The color scheme involves a white background with a very minimalistic design which is accompanied by the primary default text of Helvetica throughout that may very in color, and the focus regarding the buttons remains a constant blue tone to support accessibility and affordances via color signifier.
+> The color scheme involves a white background with a very minimalistic design which is accompanied by the primary default text of Helvetica throughout that may very in color, and the focus regarding the buttons remains a constant blue tone to support accessibility and affordances via color signifier. Lastly, whenever a user is on a certain page, it will be signified by the black tone at the bottom of the navigation bar.
 
-> Reasoning: The reasoning for a white background is because it helps facilitate a clean fresh look that enables successful contrast in order to increase the accessibility aspects of the design which is very important. Additionally, a cool shade of blue was integrated to help direct the focus of the user 
+> Reasoning: The reasoning for a white background is because it helps facilitate a clean fresh look that enables successful contrast in order to increase the accessibility aspects of the design which is very important. It also a reason why sometimes the default text sometimes changes color too. Additionally, a cool shade of blue was integrated through the entirety of the design to help orient the focus of the user by making the buttons easilt recognizable. For the user to recognize which page they are on it was a different color such as Black to help prevent confusion.
 
 #### Layout grid + Spacing 
 Insert a picture.
