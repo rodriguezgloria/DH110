@@ -83,7 +83,7 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 ### 🔵 Cognitive Walkthrough 
 > Evidence: Google survey done during lecture. 
 
-> Summary of findings: 
+> Summary of findings: Based on facilitating a cognitive walkthrough with four of my classmates, they easily recognized what the purpose of the mobile application was for which was for traveling and the type of services. In addition, the hypothesized that they were able to interact with it too in order to book a travel experience. One thing they also pointed out was that I was missing the option to go back on certain pages as well. Other than that the experience was great for all four of my classmates and agreed that things were going to go much more smoothly once these things were fixed.
 
 ---
 
