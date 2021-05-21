@@ -79,8 +79,10 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 ---
 
 ### 🔵 Cognitive Walkthrough 
+> Evidence: Google survey done during lecture. 
 
-fnirnigr
+> Summary of findings: 
+
 ---
 
 ### 🔵 Reflection 
