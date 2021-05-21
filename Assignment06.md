@@ -99,7 +99,7 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 
 ### 🔵 Changes Made  
 
-Based on the feedback from impressions test and the cognitive walkthrough I placed more return buttons to enable the user to go back and forth between pages more easily. Below is the before and after.
+Based on the feedback from impressions test and the cognitive walkthrough I placed more return buttons to enable the user to go back and forth between pages more easily. Below is the before and after of one page (this applies to other pages too).
 
 <img src="./images/1BB.png" width=700px>
 
