@@ -93,7 +93,8 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 > Summary.
 
 #### Changes
-> The.
+> From the input I received from the prototype testing, I would definetely add in more buttons that afford the user to go back and forth between pages easily. In addition, I need to make sure things are consistent throughout the entire prototype like the buttons that are included in the help page specifically. 
+
 
 ---
 
