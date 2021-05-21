@@ -74,7 +74,7 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 ---
 
 ### 🔵 Wireflow (Diagram)
-<img src="./images/WIREFLOWDIAGRAM.jpg"width=700px>
+<img src="./images/WIREFLOWDIAGRAM.jpg" width=700px>
 
 ---
 
