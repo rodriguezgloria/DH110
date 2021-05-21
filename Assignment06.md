@@ -1,4 +1,4 @@
-# Assignment 6 - High-Fidelity Prototype Part I (Yellow)
+# Assignment 6 - High-Fidelity Prototype Part I & II (Yellow & Blue)
 ## by Gloria Rodriguez for Digital Humanities 110 (Spring 2021)
 
 ### 🟡 Description of Project
