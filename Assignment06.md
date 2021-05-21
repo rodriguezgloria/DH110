@@ -76,7 +76,8 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 ### 🔵 Wireflow (Diagram)
 <img src="./images/WIREFLOWDIAGRAM.jpg" width=700px>
 
-Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=0%3A1
+#### Link: https://www.figma.com/file/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=0%3A1
+
 ---
 
 ### 🔵 Cognitive Walkthrough 
