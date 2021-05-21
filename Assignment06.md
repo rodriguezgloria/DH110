@@ -90,7 +90,8 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 ### 🔵 Reflection 
 
 #### Summary
-> Summary of the process, what went smoothly or differently from your expectation. 
+> Based off of the lo-fidelity wireframe sketches, I used Figma to design the adapted verison which is the hi-fidelity wireframes that would enable the imagined interaction to afford the user to accomplish the two following tasks: navigating the travel experience page easily and booking a travel experience. In order to do this successfully, I intergreted human-centered design concepts such as making the font legible for the headers, sub-headers, text, and buttons. Also, I used accessibility testing to assure that the color contrast has a great ratio. Lastly, I made sure that the spacing was consistent across all frames. After keeping these in mind, I was able to conduct an impression and a cognitive walkthrough test that everyone responded well to and pointed out things that were missing such as the buttons to go back and forth, and all understood the purpose of my app which is to book travel experiences which I am glad that at least that went smoothly. The back and forth situation for me was definetely unexpected but I was happy to integrate that in. Based on the feedback, I was able to address these things by integrating them and making sure all important aspects afforded intereaction to do the two tasks successfully. 
+
 
 #### Changes
 > From the input I received from the prototype testing, I would definetely add in more buttons that afford the user to go back and forth between pages easily. In addition, I need to make sure things are consistent throughout the entire prototype like the buttons that are included in the help page specifically. 
