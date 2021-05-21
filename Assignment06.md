@@ -101,8 +101,8 @@ Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id
 
 Based on the feedback from impressions test and the cognitive walkthrough I placed more return buttons to enable the user to go back and forth between pages more easily. Below is the before and after.
 
-Image.
+<img src="./images/1BB.png" width=700px>
 
 Additionally, the feedback that I recieved after submitting the first portion (yellow) it was recommended for me to redesign the help given that the affordances were not clear. Therefore, I inserted more buttons and changed the font color to help better indicate that the buttons afford clicking. Below is the before and after.
 
-Image.
+<img src="./images/2BB.png" width=700px>
