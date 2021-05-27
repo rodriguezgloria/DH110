@@ -12,6 +12,9 @@
 >  The website has great visibility of system status because lets the user know when it is processing their request by providing a message and has rapid feedback when problems are occurring. Yet tripadvisor needs to develop more efficient design when users are searching for experiences because there is limited hovering functions and icons that are available. As well as too many buttons that tarnish the aesthetic of the website to enable quick accessability.
 
 ### UX Storytelling 
+<img src="./images/NADIAPERSONA.png" width=700px>
+
+<img src="./images/GERALDPERSONA.png" width=700px>
 
 ### High-Fidelity Prototype 
-> Link: 
+> Link: https://www.figma.com/proto/1Z4uOooQoil2pwlAg4809N/DH-Assignment-6?node-id=66%3A1517&scaling=scale-down&page-id=0%3A1
